@@ -35,8 +35,7 @@ Este projeto está en sendo feito durante a [#ImersãoJava](https://github.com/a
 Você pode acessar os arquivos da Aula 1 clicando [aqui](https://github.com/elizaespinoza/imersao-java/tree/master/aula1/src).
 
 ## 📃 Licença
-Este projeto é disponibilizado com a licença MIT. Revise o arquivo [LICENCE](https://github.com/elizaespinoza/imersao-java/blob/main/LICENSE) para ver os direitos e as limitações da licença.
-
+Este projeto é disponibilizado com a licença MIT. Revise o arquivo [LICENSE](https://github.com/elizaespinoza/imersao-java/blob/master/license) para ver os direitos e as limitações da licença.
 
 ## 🙇‍♀️ Obrigada!
 A toda equipe e participantes da Imersã, em especial aos Instrutores e Instrutoras da Alura:

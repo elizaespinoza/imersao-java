@@ -21,6 +21,10 @@ Este projeto está en sendo feito durante a [#ImersãoJava](https://github.com/a
 - ``VS Code``
 - <img src="https://www.themoviedb.org/assets/2/v4/logos/v2/blue_long_2-9665a76b1ae401a510ec1e0ca40ddcb3b0cfe45f1d51b77a308fea0845885648.svg" width="16%"/> [``API``](https://www.themoviedb.org/documentation/api)
 
+## 📃 Licença
+Este projeto é disponibilizado com a licença MIT. Revise o arquivo [LICENSE](https://github.com/elizaespinoza/imersao-java/blob/master/license) para ver os direitos e as limitações da licença.
+
+
 ## 📁 Acesso ao projeto
 Você pode acessar os arquivos do projeto clicando [aqui](https://github.com/elizaespinoza/imersao-java/tree/master/aula1/src).
 
