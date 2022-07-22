@@ -19,9 +19,9 @@ Este projeto está en sendo feito durante a [#ImersãoJava](https://github.com/a
 ## 🎯 Desafios desta aula
 > *Irei fazendo ao meu tempo mas vou listando o checlist proposto:*
 
-- [] Colocar a chave da API do TMDB em algum lugar fora do código como um arquivo de configuração (p. ex, um arquivo .properties) ou uma variável de ambiente.
-- [] Consumir o endpoint de filmes mais populares da API do TMDB. Procurar também, na documentação da API do TMDB, o endpoint que retorna as melhores séries e o que retorna as séries mais populares.
-- [] Deixar a saída dos dados mais bonitinha: usar [emojis](https://r12a.github.io/app-conversion/) com código UTF-8, mostrar a nota do filme como [estrelinhas](https://www.alura.com.br/artigos/decorando-terminal-cores-emojis), decorar o [terminal com cores, negrito e itálico](https://www.lihaoyi.com/post/BuildyourownCommandLinewithANSIescapecodes.html) usando códigos ANSI, e mais!
+- [ ] Colocar a chave da API do TMDB em algum lugar fora do código como um arquivo de configuração (p. ex, um arquivo .properties) ou uma variável de ambiente.
+- [ ] Consumir o endpoint de filmes mais populares da API do TMDB. Procurar também, na documentação da API do TMDB, o endpoint que retorna as melhores séries e o que retorna as séries mais populares.
+- [ ] Deixar a saída dos dados mais bonitinha: usar [emojis](https://r12a.github.io/app-conversion/) com código UTF-8, mostrar a nota do filme como [estrelinhas](https://www.alura.com.br/artigos/decorando-terminal-cores-emojis), decorar o [terminal com cores, negrito e itálico](https://www.lihaoyi.com/post/BuildyourownCommandLinewithANSIescapecodes.html) usando códigos ANSI, e mais!
 - [ ] **Desafio supremo:** criar alguma maneira para dar uma avaliação ao filme, puxando de algum arquivo de configuração OU pedindo a avaliação para o usuário digitar no terminal.
 
 ## 🛸 Links citados e usados nesta aula:
