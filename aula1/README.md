@@ -32,7 +32,7 @@ Este projeto está en sendo feito durante a [#ImersãoJava](https://github.com/a
 - Lista de [APIs públicas e gratuitas](https://publicapis.dev/) para consumir
 
 ## 📁 Acesso ao projeto
-Você pode acessar os arquivos da Aula 1 clicando [aqui](https://github.com/elizaespinoza/aula1/tree/master/src).
+Você pode acessar os arquivos da Aula 1 clicando [aqui](https://github.com/elizaespinoza/imersao-java/tree/master/aula1/src).
 
 ## 📃 Licença
 Este projeto é disponibilizado com a licença MIT. Revise o arquivo [LICENCE](https://github.com/elizaespinoza/imersao-java/blob/main/LICENSE) para ver os direitos e as limitações da licença.
