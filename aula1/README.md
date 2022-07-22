@@ -22,14 +22,14 @@ Este projeto está en sendo feito durante a [#ImersãoJava](https://github.com/a
 - [ ] Colocar a chave da API do TMDB em algum lugar fora do código como um arquivo de configuração (p. ex, um arquivo .properties) ou uma variável de ambiente.
 - [ ] Consumir o endpoint de filmes mais populares da API do TMDB. Procurar também, na documentação da API do TMDB, o endpoint que retorna as melhores séries e o que retorna as séries mais populares.
 - [ ] Deixar a saída dos dados mais bonitinha: usar [emojis](https://r12a.github.io/app-conversion/) com código UTF-8, mostrar a nota do filme como [estrelinhas](https://www.alura.com.br/artigos/decorando-terminal-cores-emojis), decorar o [terminal com cores, negrito e itálico](https://www.lihaoyi.com/post/BuildyourownCommandLinewithANSIescapecodes.html) usando códigos ANSI, e mais!
+- [ ] Mudar o JsonParser para usar uma biblioteca de parsing de JSON como [Jackson](https://github.com/FasterXML/jackson) ou [Gson](https://www.youtube.com/watch?v=BbI8FdQOKNs).
 - [ ] **Desafio supremo:** criar alguma maneira para dar uma avaliação ao filme, puxando de algum arquivo de configuração OU pedindo a avaliação para o usuário digitar no terminal.
 
 ## 🛸 Links citados e usados nesta aula:
-- Documentação da classe [``HttpRequest`` do pacote ``java.net.http``](https://docs.oracle.com/en/java/javase/17/docs/api/java.net.http/java/net/http/HttpRequest.html)
-- Biblioteca [``Jackson``](https://github.com/FasterXML/jackson), que faz parse de JSON.
-- Artigo: [*Como deixar no seu GitHub com um README interessante*](https://www.alura.com.br/artigos/escrever-bom-readme)
-- Repo da [Imersão em Java da Alura](https://github.com/alura-cursos/imersao-java/tree/aula1)
-- Lista de [APIs públicas e gratuitas](https://publicapis.dev/) para consumir
+- Documentação da classe [``HttpRequest`` do pacote ``java.net.http``](https://docs.oracle.com/en/java/javase/17/docs/api/java.net.http/java/net/http/HttpRequest.html).
+- Artigo: [*Como deixar no seu GitHub com um README interessante*](https://www.alura.com.br/artigos/escrever-bom-readme).
+- [Repo](https://github.com/alura-cursos/imersao-java/tree/aula1) e [site](https://www.alura.com.br/imersao-java/aula) da Imersão em Java da Alura.
+- Lista de [APIs públicas e gratuitas](https://publicapis.dev/) para consumir.
 
 ## 📁 Acesso ao projeto
 Você pode acessar os arquivos da Aula 1 clicando [aqui](https://github.com/elizaespinoza/imersao-java/tree/master/aula1/src).
