@@ -14,6 +14,7 @@ Este projeto está en sendo feito durante a [#ImersãoJava](https://github.com/a
 
 - `JsonParser`: Parser que usa expressões regulares para extrair o título (`title`), url da imagem (`poster_path`) e o ranking (`vote_average`). Implementado a partir do [código](https://gist.github.com/alexandreaquiles/8988fc38969d4113d7c289ed1057a459) do Alexandre Aquiles. Lembrando que esta funcionalidade só serve para o The Movie Data Base (TMDB), por conta das expressões regulares para separar os dados úteis para o projeto.
 
+
 ## 🤹 Técnicas e tecnologias utilizadas
 
 - [``Java 8, act 333``](https://www.oracle.com/java/technologies/javase/8u333-relnotes.html)
