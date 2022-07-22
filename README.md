@@ -7,8 +7,8 @@ Este projeto está en sendo feito durante a [#ImersãoJava](https://github.com/a
 
 ## 🧭 Periodo
 
-- [Live](https://github.com/elizaespinoza/live) de abertura da Imersão: 15/07
-- Aulas sobre o projeto: [18/07](https://github.com/elizaespinoza/aula1) à 22/07
+- [Live](https://github.com/elizaespinoza/imersao-java/tree/master/live) de abertura da Imersão: 15/07
+- Aulas sobre o projeto: [18/07](https://github.com/elizaespinoza/imersao-java/tree/master/aula1) à 22/07
 
 ## 🔨 Funcionalidades do projeto
 
@@ -22,7 +22,7 @@ Este projeto está en sendo feito durante a [#ImersãoJava](https://github.com/a
 - <img src="https://www.themoviedb.org/assets/2/v4/logos/v2/blue_long_2-9665a76b1ae401a510ec1e0ca40ddcb3b0cfe45f1d51b77a308fea0845885648.svg" width="16%"/> [``API``](https://www.themoviedb.org/documentation/api)
 
 ## 📁 Acesso ao projeto
-Você pode acessar os arquivos do projeto clicando [aqui](https://github.com/elizaespinoza/aula1/tree/master/src).
+Você pode acessar os arquivos do projeto clicando [aqui](https://github.com/elizaespinoza/imersao-java/tree/master/aula1/src).
 
 ## 🙇‍♀️ Obrigada!
 Aos Instrutores e Instrutoras da Alura: 
